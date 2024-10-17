@@ -97,3 +97,4 @@ wrong_button.config(command=on_wrong_click)
 # -----------------------------Start---------------------------------
 pick_random_word()  # Starte mit einem zufälligen Wort
 window.mainloop()
+print()
